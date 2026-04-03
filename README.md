@@ -2,7 +2,7 @@
 
 ### Hi, I'm YunChao 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+TypeScript+%C2%B7+Go+%C2%B7+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+TypeScript+%C2%B7+Go+%C2%B7+Flutter)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yunchaocai-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunchaocai/)
 
@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Mobile**
