@@ -42,4 +42,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#641](https://github.com/googleworkspace/cli/pull/641) in [googleworkspace/cli](https://github.com/googleworkspace/cli)
+2. 💪 Opened PR [#641](https://github.com/googleworkspace/cli/pull/641) in [googleworkspace/cli](https://github.com/googleworkspace/cli)
+3. 💪 Opened PR [#3](https://github.com/crescendolab-open/override-proxy/pull/3) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
 <!--END_SECTION:activity-->
