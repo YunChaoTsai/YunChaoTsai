@@ -2,7 +2,7 @@
 
 ### Hi, I'm YunChao 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+TypeScript+%C2%B7+Go+%C2%B7+Flutter)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;TypeScript+%C2%B7+Go+%C2%B7+Flutter+%C2%B7+Python;Coffee+%E2%86%92+Code+%E2%98%95)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yunchaocai-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunchaocai/)
 
