@@ -37,7 +37,7 @@ Displayed as shields.io badges organized in three labeled rows:
 
 - Service: `github-readme-activity-graph.vercel.app`
 - Theme: `gruvbox`
-- Auto-updated on every push via the existing daily-devcard workflow (or a new workflow)
+- No workflow needed — the graph is an embedded image URL, always up-to-date
 
 ### 4. Recent Activity
 
@@ -48,18 +48,15 @@ Displayed as shields.io badges organized in three labeled rows:
 
 ## GitHub Actions
 
-Two workflows required:
+One new workflow required:
 
 | Workflow | Trigger | Purpose |
 |----------|---------|---------|
-| `cron_update_daily_dev.yml` | existing | Keeps Daily.dev devcard (already present, keep as-is or remove) |
-| `update_activity.yml` | daily cron + push | Updates Recent Activity section |
+| `update_activity.yml` | daily cron (`0 0 * * *`) + workflow_dispatch | Updates Recent Activity section |
 
-> The Daily.dev devcard is removed from the profile to keep it clean. The existing workflow can be disabled or deleted.
+## Existing Workflow to Remove
 
-## Existing Workflow
-
-`cron_update_daily_dev.yml` — currently updates the devcard SVG to the `devcard` branch. Since the devcard is being removed from the profile, this workflow should be disabled.
+`cron_update_daily_dev.yml` — **delete this file**. The Daily.dev devcard is removed from the profile and this workflow is no longer needed.
 
 ## Non-Goals
 
