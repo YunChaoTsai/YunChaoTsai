@@ -42,7 +42,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/crescendolab-open/override-proxy/pull/4) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
-2. 🗣 Commented on [#658](https://github.com/googleworkspace/cli/pull/658#issuecomment-4197749561) in [googleworkspace/cli](https://github.com/googleworkspace/cli)
-3. 🎉 Merged PR [#641](https://github.com/googleworkspace/cli/pull/641) in [googleworkspace/cli](https://github.com/googleworkspace/cli)
+1. ❌ Closed PR [#3](https://github.com/crescendolab-open/override-proxy/pull/3) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+2. 🗣 Commented on [#3](https://github.com/crescendolab-open/override-proxy/pull/3#issuecomment-4215510901) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+3. 💪 Opened PR [#4](https://github.com/crescendolab-open/override-proxy/pull/4) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
 <!--END_SECTION:activity-->
