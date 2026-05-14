@@ -42,7 +42,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/crescendolab-open/override-proxy/pull/4) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
-2. ❌ Closed PR [#3](https://github.com/crescendolab-open/override-proxy/pull/3) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
-3. 🗣 Commented on [#3](https://github.com/crescendolab-open/override-proxy/pull/3#issuecomment-4215510901) in [crescendolab-open/override-proxy](https://github.com/crescendolab-open/override-proxy)
+1. 🗣 Commented on [#23](https://github.com/liriliri/chobitsu/issues/23#issuecomment-4439429625) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
+2. 🗣 Commented on [#24](https://github.com/liriliri/chobitsu/pull/24#issuecomment-4439427970) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
+3. 💪 Opened PR [#24](https://github.com/liriliri/chobitsu/pull/24) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
 <!--END_SECTION:activity-->
