@@ -42,7 +42,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/liriliri/chobitsu/issues/23#issuecomment-4439429625) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
-2. 🗣 Commented on [#24](https://github.com/liriliri/chobitsu/pull/24#issuecomment-4439427970) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
-3. 💪 Opened PR [#24](https://github.com/liriliri/chobitsu/pull/24) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
+1. 🔒 Closed issue [#23](https://github.com/liriliri/chobitsu/issues/23) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
+2. ❌ Closed PR [#24](https://github.com/liriliri/chobitsu/pull/24) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
+3. 🗣 Commented on [#23](https://github.com/liriliri/chobitsu/issues/23#issuecomment-4439429625) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
 <!--END_SECTION:activity-->
