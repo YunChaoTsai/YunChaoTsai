@@ -42,7 +42,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/liriliri/chobitsu/issues/23) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
+1. 💪 Opened PR [#2](https://github.com/YunChaoTsai/YunChaoTsai/pull/2) in [YunChaoTsai/YunChaoTsai](https://github.com/YunChaoTsai/YunChaoTsai)
 2. ❌ Closed PR [#24](https://github.com/liriliri/chobitsu/pull/24) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
 3. 🗣 Commented on [#23](https://github.com/liriliri/chobitsu/issues/23#issuecomment-4439429625) in [liriliri/chobitsu](https://github.com/liriliri/chobitsu)
 <!--END_SECTION:activity-->
